@@ -63,3 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rompersStomper&theme=violet-dark&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rompersStomper)](https://github.com/rompersStomper/github-readme-stats)
+
+---
+![Jokes Card](https://readme-jokes.vercel.app/api) 
